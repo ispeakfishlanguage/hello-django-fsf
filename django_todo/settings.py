@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-!d!em(xvl_mv3y2bu!r2$xxmo96h#&(e*$n9a4f6y=_mni*#g5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-todo-ispeakfishlanguage-55d3dd96caaa.herokuapp.com/']
+ALLOWED_HOSTS = ['django-todo-ispeakfishlanguage-55d3dd96caaa.herokuapp.com']
 
 
 # Application definition
